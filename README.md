@@ -11,8 +11,7 @@ This is a simple Spring MVC application that demonstrates CRUD (Create, Read, Up
 
 ## Technologies Used  
 - **Java**: Core programming language  
-- **Spring MVC**: Framework for MVC architecture  
-- **Hibernate**: For ORM  
+- **Spring MVC**: Framework for MVC architecture   
 - **MySQL**: Database  
 - **JSP**: View technology  
 
@@ -23,7 +22,7 @@ This is a simple Spring MVC application that demonstrates CRUD (Create, Read, Up
 - Update database configurations in application.properties.
 - Create a MySQL database and update schema in the project.
 - Run the application using your IDE or mvn spring-boot:run.
-- Access the application at http://localhost:8080/.
+- Access the application at "http://localhost:8080/" after setup.
 
   ## Usage
 - Use the web interface to perform CRUD operations.
